@@ -6,19 +6,19 @@ function rand(min = 1000, max = 10000) {
 
 function palavra1() {
     setTimeout(function() {
-        console.log('Palavra1');
+        console.log('porta');
     }, rand());
 }
 
 function palavra2() {
     setTimeout(function() {
-        console.log('Palavra2');
+        console.log('cozinha');
     }, rand());
 }
 
 function palavra3() {
     setTimeout(function() {
-        console.log('Palavra3');
+        console.log('janela');
     }, rand());
 }
 
