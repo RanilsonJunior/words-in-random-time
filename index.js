@@ -168,13 +168,13 @@ function palavra27() {
 
 function palavra28() {
     setTimeout(function() {
-        console.log('cat');
+        console.log('gato');
     }, rand());
 }
 
 function palavra29() {
     setTimeout(function() {
-        console.log('dog');
+        console.log('cachorro');
     }, rand());
 }
 
