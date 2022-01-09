@@ -1,4 +1,4 @@
-function rand(min = 1000, max = 10000) {
+function rand(min = 1000, max = 5000) {
     const valor = Math.random() * (max - min) + min;
     return Math.floor(valor)
 }
