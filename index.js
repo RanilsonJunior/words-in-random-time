@@ -184,6 +184,20 @@ function palavra30() {
     }, rand());
 }
 
+function palavra31() {
+    setTimeout(function() {
+        console.log('passaro');
+    }, rand());
+}
+
+function palavra32() {
+    setTimeout(function() {
+        console.log('vaca');
+    }, rand());
+}
+
+
+
 
 palavra1();
 palavra2();
@@ -215,3 +229,5 @@ palavra27();
 palavra28();
 palavra29();
 palavra30();
+palavra31();
+palavra32();
