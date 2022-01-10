@@ -90,107 +90,101 @@ function palavra14() {
 
 function palavra15() {
     setTimeout(function() {
-        console.log('quadro');
+        console.log('armário ou guarda-roupa');
     }, rand());
 }
 
 function palavra16() {
     setTimeout(function() {
-        console.log('armário ou guarda-roupa');
+        console.log('mistura');
     }, rand());
 }
 
 function palavra17() {
     setTimeout(function() {
-        console.log('mistura');
+        console.log('sala');
     }, rand());
 }
 
 function palavra18() {
     setTimeout(function() {
-        console.log('sala');
+        console.log('mau');
     }, rand());
 }
 
 function palavra19() {
     setTimeout(function() {
-        console.log('mau');
+        console.log('fantastico');
     }, rand());
 }
 
 function palavra20() {
     setTimeout(function() {
-        console.log('fantastico');
+        console.log('sofá');
     }, rand());
 }
 
 function palavra21() {
     setTimeout(function() {
-        console.log('sofá');
+        console.log('gaveta');
     }, rand());
 }
 
 function palavra22() {
     setTimeout(function() {
-        console.log('gaveta');
+        console.log('relogio');
     }, rand());
 }
 
 function palavra23() {
     setTimeout(function() {
-        console.log('relogio');
+        console.log('azulejo');
     }, rand());
 }
 
 function palavra24() {
     setTimeout(function() {
-        console.log('azulejo');
+        console.log('mesa');
     }, rand());
 }
 
 function palavra25() {
     setTimeout(function() {
-        console.log('mesa');
+        console.log('forno micro-ondas');
     }, rand());
 }
 
 function palavra26() {
     setTimeout(function() {
-        console.log('forno micro-ondas');
+        console.log('correr');
     }, rand());
 }
 
 function palavra27() {
     setTimeout(function() {
-        console.log('correr');
+        console.log('gato');
     }, rand());
 }
 
 function palavra28() {
     setTimeout(function() {
-        console.log('gato');
+        console.log('cachorro');
     }, rand());
 }
 
 function palavra29() {
     setTimeout(function() {
-        console.log('cachorro');
+        console.log('peixe');
     }, rand());
 }
 
 function palavra30() {
     setTimeout(function() {
-        console.log('peixe');
-    }, rand());
-}
-
-function palavra31() {
-    setTimeout(function() {
         console.log('passaro');
     }, rand());
 }
 
-function palavra32() {
+function palavra31() {
     setTimeout(function() {
         console.log('vaca');
     }, rand());
@@ -230,4 +224,3 @@ palavra28();
 palavra29();
 palavra30();
 palavra31();
-palavra32();
