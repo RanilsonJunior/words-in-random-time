@@ -190,6 +190,18 @@ function palavra31() {
     }, rand());
 }
 
+function palavra32() {
+    setTimeout(function() {
+        console.log('porco');
+    }, rand());
+}
+
+function palavra33() {
+    setTimeout(function() {
+        console.log('rato');
+    }, rand());
+}
+
 
 
 
@@ -224,3 +236,5 @@ palavra28();
 palavra29();
 palavra30();
 palavra31();
+palavra32();
+palavra33();
