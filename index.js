@@ -202,6 +202,24 @@ function palavra33() {
     }, rand());
 }
 
+function palavra34() {
+    setTimeout(function() {
+        console.log('cavalo');
+    }, rand());
+}
+
+function palavra35() {
+    setTimeout(function() {
+        console.log('asa');
+    }, rand());
+}
+
+function palavra36() {
+    setTimeout(function() {
+        console.log('animais');
+    }, rand());
+}
+
 
 
 
@@ -238,3 +256,6 @@ palavra30();
 palavra31();
 palavra32();
 palavra33();
+palavra34();
+palavra35();
+palavra36();
