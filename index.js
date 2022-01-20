@@ -220,6 +220,18 @@ function palavra36() {
     }, rand());
 }
 
+function palavra37() {
+    setTimeout(function() {
+        console.log('máquina de lava-roupas');
+    }, rand());
+}
+
+function palavra38() {
+    setTimeout(function() {
+        console.log('liquificador');
+    }, rand());
+}
+
 
 
 
@@ -259,3 +271,5 @@ palavra33();
 palavra34();
 palavra35();
 palavra36();
+palavra37();
+palavra38();
