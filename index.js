@@ -4,286 +4,283 @@ function rand(min = 1000, max = 5000) {
 }
 
 
-function palavra1() {
+function palavra1(p1) {
     setTimeout(function() {
-        console.log('porta');
+        document.write('<h3>'+p1+'</h3>')
     }, rand());
 }
 
-function palavra2() {
+function palavra2(p2) {
     setTimeout(function() {
-        console.log('piso');
+        document.write('<h3>'+p2+'</h3>')
     }, rand());
 }
 
-function palavra3() {
+function palavra3(p3) {
     setTimeout(function() {
-        console.log('parede');
+        document.write('<h3>'+p3+'</h3>')
     }, rand());
 }
 
-function palavra4() {
+function palavra4(p4) {
     setTimeout(function() {
-        console.log('teto');
+        document.write('<h3>'+p4+'</h3>')
     }, rand());
 }
 
-function palavra5() {
+function palavra5(p5) {
     setTimeout(function() {
-        console.log('cozinha');
+        document.write('<h3>'+p5+'</h3>')
     }, rand());
 }
 
-function palavra6() {
+function palavra6(p6) {
     setTimeout(function() {
-        console.log('cama');
+        document.write('<h3>'+p6+'</h3>')
     }, rand());
 }
 
-function palavra7() {
+function palavra7(p7) {
     setTimeout(function() {
-        console.log('quarto');
+        document.write('<h3>'+p7+'</h3>')
     }, rand());
 }
 
-function palavra8() {
+function palavra8(p8) {
     setTimeout(function() {
-        console.log('espelho');
+        document.write('<h3>'+p8+'</h3>')
     }, rand());
 }
 
-function palavra9() {
+function palavra9(p9) {
     setTimeout(function() {
-        console.log('cadeira');
+        document.write('<h3>'+p9+'</h3>')
     }, rand());
 }
 
-function palavra10() {
+function palavra10(p10) {
     setTimeout(function() {
-        console.log('sofá');
+        document.write('<h3>'+p10+'</h3>')
     }, rand());
 }
 
-function palavra11() {
+function palavra11(p11) {
     setTimeout(function() {
-        console.log('janela');
+        document.write('<h3>'+p11+'</h3>')
     }, rand());
 }
 
-function palavra12() {
+function palavra12(p12) {
     setTimeout(function() {
-        console.log('prateleira');
+        document.write('<h3>'+p12+'</h3>')
     }, rand());
 }
 
-function palavra13() {
+function palavra13(p13) {
     setTimeout(function() {
-        console.log('quadro');
+        document.write('<h3>'+p13+'</h3>')
     }, rand());
 }
 
-function palavra14() {
+function palavra14(p14) {
     setTimeout(function() {
-        console.log('assento sanitario');
+        document.write('<h3>'+p14+'</h3>')
     }, rand());
 }
 
-function palavra15() {
+function palavra15(p15) {
     setTimeout(function() {
-        console.log('pia');
+        document.write('<h3>'+p15+'</h3>')
     }, rand());
 }
 
-function palavra16() {
+function palavra16(p16) {
     setTimeout(function() {
-        console.log('torneira');
+        document.write('<h3>'+p16+'</h3>')
     }, rand());
 }
 
-function palavra17() {
+function palavra17(p17) {
     setTimeout(function() {
-        console.log('garagem');
+        document.write('<h3>'+p17+'</h3>')
     }, rand());
 }
 
-function palavra18() {
+function palavra18(p18) {
     setTimeout(function() {
-        console.log('armário');
+        document.write('<h3>'+p18+'</h3>')
     }, rand());
 }
 
-function palavra19() {
+function palavra19(p19) {
     setTimeout(function() {
-        console.log('máquina lava-roupas');
+        document.write('<h3>'+p19+'</h3>')
     }, rand());
 }
 
-function palavra20() {
+function palavra20(p20) {
     setTimeout(function() {
-        console.log('liquidificador');
+        document.write('<h3>'+p20+'</h3>')
     }, rand());
 }
 
-function palavra21() {
+function palavra21(p21) {
     setTimeout(function() {
-        console.log('gaveta');
+        document.write('<h3>'+p21+'</h3>')
     }, rand());
 }
 
-function palavra22() {
+function palavra22(p22) {
     setTimeout(function() {
-        console.log('azulejo');
+        document.write('<h3>'+p22+'</h3>')
     }, rand());
 }
 
-function palavra23() {
+function palavra23(p23) {
     setTimeout(function() {
-        console.log('relógio');
+        document.write('<h3>'+p23+'</h3>')
     }, rand());
 }
 
-function palavra24() {
+function palavra24(p24) {
     setTimeout(function() {
-        console.log('forno microondas');
+        document.write('<h3>'+p24+'</h3>')
     }, rand());
 }
 
-function palavra25() {
+function palavra25(p25) {
     setTimeout(function() {
-        console.log('mesa');
+        document.write('<h3>'+p25+'</h3>')
     }, rand());
 }
 
-function palavra26() {
+function palavra26(p26) {
     setTimeout(function() {
-        console.log('mistura');
+        document.write('<h3>'+p26+'</h3>')
     }, rand());
 }
 
-function palavra27() {
+function palavra27(p27) {
     setTimeout(function() {
-        console.log('sala ou comodo');
+        document.write('<h3>'+p27+'</h3>')
     }, rand());
 }
 
-function palavra28() {
+function palavra28(p28) {
     setTimeout(function() {
-        console.log('mau');
+        document.write('<h3>'+p28+'</h3>')
     }, rand());
 }
 
-function palavra29() {
+function palavra29(p29) {
     setTimeout(function() {
-        console.log('correr');
+        document.write('<h3>'+p29+'</h3>')
     }, rand());
 }
 
-function palavra30() {
+function palavra30(p30) {
     setTimeout(function() {
-        console.log('fantástico');
+        document.write('<h3>'+p30+'</h3>')
     }, rand());
 }
 
-function palavra31() {
+function palavra31(p31) {
     setTimeout(function() {
-        console.log('cachorro');
+        document.write('<h3>'+p31+'</h3>')
     }, rand());
 }
 
-function palavra32() {
+function palavra32(p32) {
     setTimeout(function() {
-        console.log('gato');
+        document.write('<h3>'+p32+'</h3>')
     }, rand());
 }
 
-function palavra33() {
+function palavra33(p33) {
     setTimeout(function() {
-        console.log('peixe');
+        document.write('<h3>'+p33+'</h3>')
     }, rand());
 }
 
-function palavra34() {
+function palavra34(p34) {
     setTimeout(function() {
-        console.log('pássaro');
+        document.write('<h3>'+p34+'</h3>')
     }, rand());
 }
 
-function palavra35() {
+function palavra35(p35) {
     setTimeout(function() {
-        console.log('vaca');
+        document.write('<h3>'+p35+'</h3>')
     }, rand());
 }
 
-function palavra36() {
+function palavra36(p36) {
     setTimeout(function() {
-        console.log('porco');
+        document.write('<h3>'+p36+'</h3>')
     }, rand());
 }
 
-function palavra37() {
+function palavra37(p37) {
     setTimeout(function() {
-        console.log('rato');
+        document.write('<h3>'+p37+'</h3>')
     }, rand());
 }
 
-function palavra38() {
+function palavra38(p38) {
     setTimeout(function() {
-        console.log('cavalo');
+        document.write('<h3>'+p38+'</h3>')
     }, rand());
 }
 
-function palavra39() {
+function palavra39(p39) {
     setTimeout(function() {
-        console.log('asa');
+        document.write('<h3>'+p39+'</h3>')
     }, rand());
 }
 
-function palavra40() {
+function palavra40(p40) {
     setTimeout(function() {
-        console.log('animais');
+        document.write('<h3>'+p40+'</h3>')
     }, rand());
 }
 
-
-
-
-palavra1();
-palavra2();
-palavra3();
-palavra4();
-palavra5();
-palavra6();
-palavra7();
-palavra8();
-palavra9();
-palavra10();
-palavra11();
-palavra12();
-palavra13();
-palavra14();
-palavra15();
-palavra16();
-palavra17();
-palavra18();
-palavra19();
-palavra20();
-palavra21();
-palavra22();
-palavra23();
-palavra24();
-palavra25();
-palavra26();
-palavra27();
-palavra28();
-palavra29();
-palavra30();
-palavra31();
-palavra32();
-palavra33();
-palavra34();
-palavra35();
-palavra36();
-palavra37();
-palavra38();
-palavra39();
-palavra40();
+palavra1('sofa');
+palavra2('piso');
+palavra3('parede');
+palavra4('teto');
+palavra5('cozinha');
+palavra6('cama');
+palavra7('quarto');
+palavra8('espelho');
+palavra9('cadeira');
+palavra10('sofá');
+palavra11('janela');
+palavra12('pratilheira');
+palavra13('quadro');
+palavra14('assento sanitário');
+palavra15('pia');
+palavra16('torneira');
+palavra17('garagem');
+palavra18('armário');
+palavra19('máquina de lavar roupas');
+palavra20('liquidificador');
+palavra21('gaveta');
+palavra22('azulejo');
+palavra23('relógio');
+palavra24('forno Micro ondas');
+palavra25('mesa');
+palavra26('mistura');
+palavra27('sala ou comodo');
+palavra28('mau');
+palavra29('correr');
+palavra30('fantástico');
+palavra31('cachorro');
+palavra32('gato');
+palavra33('peixe');
+palavra34('pássaro');
+palavra35('vaca');
+palavra36('porco');
+palavra37('rato');
+palavra38('cavalo');
+palavra39('asa');
+palavra40('animais');
